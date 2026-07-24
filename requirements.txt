@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+matplotlib
+scipy
+anthropic        # or openai - pick one
+pydantic         # schema validation of LLM output
