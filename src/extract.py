@@ -42,8 +42,11 @@ Reply with only a JSON object, no markdown fences, no explanation, exactly this 
 
 - **RULE 4**: Britain / Great Britain / England / Scotland / Wales / GB -> label `UK`. Holland -> `Netherlands`.
 
-- **RULE 5**: When no country is named and the headline is about UK domestic matters (bills, households, the grid, regulators, politics) -> UK. When no country is named and the story has no national subject at all (science studies, global markets, general explainers) -> `other`.
-Example: "Energy bills to rise again in April" -> UK. Example: "Changes in solar energy fuelled high speed evolutionary changes, study suggests" -> `other`.
+- **RULE 5**: **When** no country is named and the headline is about domestic life (bills, households, consumer advice and shopping, the grid, regulators, politics) -> `UK`. When no country is named and the story has no national subject at all (science studies, global markets, general explainers) -> `other`..
+
+Example: "Energy bills to rise again in April" -> UK. 
+
+Example: "Changes in solar energy fuelled high speed evolutionary changes, study suggests" -> `other`.
 
 Example: "Energy bills to rise again in April" -> `UK`
 
@@ -70,12 +73,15 @@ Example: "*Europe's heatwave drives electricity prices*" -> heatwave. Example: "
 
 - **RULE 2**: **When** the headline asserts that a real weather event is happening or is
   forecast, **label** that event, whatever else the article is about. **When** the weather
-  word is a name, a metaphor, or a policy term, **label** `none`.
+  word is a name, a metaphor, or a policy term, **label** `none`. 
+  **When** a season named without a specific event (this winter, summer bills) is not an event -> `none`." 
 
 Example: "Not cool: the air conditioning scams offering fake deals in the heatwave" -> `heatwave`
 (the story is about fraud, but a real UK heatwave is happening)
 Example: "Raise £12bn in budget by extending income tax thresholds freeze, says thinktank" -> `none`
 (freeze is fiscal policy, not weather)
+Example: "20 things to wear to stay warm this winter" -> seasonal, no event asserted -> `none`
+"New year revellers told to wrap up warm with snow expected across UK" -> specific forecast asserted -> `cold`
 
 - **RULE 3**: The event must be current or forecast. **When** the headline only refers back to
   a past event, **label** `none`. A flood that happened months ago does not move prices today.
