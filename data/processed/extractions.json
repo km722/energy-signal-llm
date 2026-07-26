@@ -1,0 +1,562 @@
+{
+  "https://www.theguardian.com/money/2026/mar/18/energy-bills-uk-government-urged-to-launch-social-tariff-to-help-vulnerable-households": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/may/12/datacentres-australia-wind-solar-energy-investment": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/thefilter-us/2026/jan/27/extreme-cold-warm-winter-clothing": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2025/aug/27/higher-energy-bills-price-cap-rises": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/apr/22/eu-plans-cut-electricity-taxes-shield-households-iran-war-energy-crisis": {
+    "event_type": "none",
+    "region": "Europe"
+  },
+  "https://www.theguardian.com/environment/2026/jan/14/solar-grazing-triple-win-sheep-farmers-renewables-energy-companies": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2025/sep/23/energy-bills-millions-overpaying-meter-readings-uswitch": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/apr/21/uk-shifts-older-wind-and-solar-farms-to-fixed-price-deals-to-reduce-price-shocks": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/australia-news/2025/aug/25/what-is-happening-with-australias-emissions-electricity-is-improving-transport-is-not": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/culture/2025/sep/15/kgb-scorpions-wind-of-change-whistling": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2026/jan/14/labour-wind-power-risks-clean-power-great-britain": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2025/sep/22/sun-day-climate-new-york": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/jan/27/national-insurance-hike-and-energy-bills-behind-food-price-rise-say-uk-retailers": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/science/2025/nov/26/changes-in-solar-energy-fuelled-high-speed-evolutionary-changes-study-suggests": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2025/oct/22/sydney-weather-nsw-heat-bom-forecast-wind-warnings-australia": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/11/wake-up-labour-mps-price-of-electricity-is-crisis-for-industry-and-growth": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/live/2026/feb/25/uk-energy-bills-cap-gold-price-markets-economy-obr-business-live-news-updates": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/technology/2025/aug/10/elon-musk-tesla-applies-to-supply-electricity-to-households-in-great-britain": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/sep/10/south-dakota-solar-energy": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2026/mar/23/first-thing-iran-war-energy-crisis-equal-70s-oil-shocks-ukraine-invasion-fallout-iea-chief-says": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2025/oct/31/us-electricity-bills-increased-trump": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2026/apr/21/uk-electricity-prices-gas-energy-bills": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/technology/2025/oct/06/openai-meta-elon-musk-techscape": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2026/apr/13/middle-east-war-uk-households-poorer-this-year-resolution-foundation-thinktank": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/jun/10/public-procurement-electricity-could-save-households": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/money/2025/sep/10/rise-in-energy-prices-leaves-1m-uk-households-behind-on-bills": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2026/may/02/solar-midwest-energy-crisis": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2025/nov/17/are-australians-really-paying-more-for-electricity-than-other-countries": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/aug/21/solar-panels-in-space-could-provide-80-of-europes-renewable-energy-by-2050": {
+    "event_type": "none",
+    "region": "Europe"
+  },
+  "https://www.theguardian.com/money/2026/jun/16/retail-giants-join-uk-government-drive-to-boost-plug-in-balcony-solar-panels": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/jul/07/low-cost-loans-for-solar-panels-could-save-households-hundreds-on-bills-thinktanks": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2026/mar/13/ukraine-war-briefing-putin-envoy-says-us-better-understands-importance-of-russian-oil-amid-energy-crisis": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/mar/25/iran-war-strait-of-hormuz-shipping-delays-windfarm-projects-europe": {
+    "event_type": "none",
+    "region": "Europe"
+  },
+  "https://www.theguardian.com/world/2026/jan/11/ukraine-war-briefing-kyiv-struggles-to-stablise-ruined-power-grid-after-major-russian-attack": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/technology/2026/jan/13/trump-microsoft-data-centers-electricity": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2025/nov/02/energy-prices-falling-electricity-cheaper-households": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/politics/2026/mar/24/rachel-reeves-rules-out-universal-support-energy-bills": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/sep/12/offshore-wind-australia-energy-transition-so-why-mass-exodus-from-investors": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/film/2026/jan/05/dreams-travel-with-the-wind-review-communing-with-the-spirits-to-preserve-indigenous-culture-in-colombia": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2026/may/29/farm-bill-solar-projects-farming": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2025/dec/16/electricity-generation-costs-third-lower-82-renewable-grid": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2025/dec/08/zombie-electricity-projects-britain-face-axe-grid-connections-net-zero": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2025/sep/30/afghanistan-mobile-phones-internet-telecoms-blackout-taliban": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2026/jan/08/iran-plunged-into-internet-blackout-as-protests-over-economy-spread-nationwide": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/books/2025/dec/29/poem-of-the-week-the-man-in-the-wind-by-anne-stevenson": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/17/trump-energy-bill-prices-increase": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/news/2025/dec/05/weather-watch-everyday-phrases-nautical-expressions-wind-language": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2026/mar/03/oil-gas-lng-prices-iran-war-middle-east-conflict-bills-australia-ntwnfb": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2026/apr/28/trump-administration-wind-projects": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2026/feb/02/ukraine-war-briefing-kyiv-reschedules-peace-talks-battered-power-grid-strains-cold-snaps": {
+    "event_type": "cold",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2026/apr/26/why-biomethane-is-not-the-solution-to-britains-gas-supply-issues": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/money/2026/mar/04/iran-conflict-energy-bills-gas-prices": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/dec/15/we-must-not-stop-research-on-solar-geoengineering": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/society/2026/mar/20/peter-coates-death-coroner-ambulance-delays-power-cut": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2026/jun/09/worlds-first-wind-powered-underwater-datacentre-starts-operating-in-china": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/live/2026/mar/04/war-middle-east-uk-living-standards-growth-markets-energy-shock-live-news-updates": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/lifeandstyle/2025/aug/02/can-bears-swing-upside-down-and-what-colour-is-electricity-the-kids-quiz": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2026/mar/19/leo-varadkar-lgbtq-rights-in-europe-face-chill-wind-from-east-and-west": {
+    "event_type": "none",
+    "region": "Europe"
+  },
+  "https://www.theguardian.com/environment/2025/oct/14/ed-miliband-approves-uk-biggest-solar-farm-at-lincolnshire-site": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2026/apr/26/more-than-oil-prices-iran-war-threatens-to-reshape-global-energy-order": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2025/oct/19/georgia-electricity-datacenters": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2025/aug/11/orsted-wind-generator-shares-sink-9bn-cash-call": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2026/may/26/south-carolina-woman-dies-umbrella-accident": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2025/aug/19/electricity-bills-increase-trump": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2025/nov/21/energy-price-cap-great-britain-rise-january-fuel": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/oct/16/what-the-data-center-boom-means-for-americas-environment-and-electricity-bills": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2026/mar/02/datacentres-australia-power-prices-water-supply-emissions": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2026/mar/26/tropical-cyclone-narelle-storm-flooding-wa-western-australia": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/news/2025/oct/23/weatherwatch-myths-behind-the-capricious-god-of-the-north-wind-boreas": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/apr/17/rachel-reeves-to-raise-windfall-tax-on-low-carbon-electricity-generators": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2026/jan/22/minnesota-economic-blackout-ice": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/nils-pratley-on-finance/2025/nov/20/industry-cant-wait-any-longer-for-a-fix-to-its-energy-crisis-ministers-should-get-a-move-on": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/20/ice-immigrarion-minnesota-economic-protest": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/global-development/2026/jan/10/film-makers-iran-protest-internet-blackout-repression": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2026/apr/20/elaine-luria-virginia-house-democrats-midterms": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/lifeandstyle/2026/jul/12/readers-reply-why-put-solar-panels-on-green-space-when-we-could-put-them-over-car-parks": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/lifeandstyle/2026/jul/05/why-put-solar-panels-on-green-space-when-we-could-put-them-over-car-parks": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/live/2025/aug/27/energy-price-cap-rise-trump-tariff-india-business-live-news": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/business/2025/dec/30/eurostar-trains-cancelled-delayed-channel-tunnel-le-shuttle": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/football/2026/apr/12/wasted-weekend-international-break-womens-super-league-football": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/live/2026/jan/09/australia-news-live-victoria-catastrophic-bushfire-fire-ban-heatwave-tropical-cyclone-floods-royal-commission-antisemitism-bondi-anthony-albanese-ntwnfb": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/business/2026/mar/15/energy-price-surge-britain-chemical-plant-risk-huntsman": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2026/mar/06/iran-war-us-india-russian-oil-prices-jump-israel-strikes-hezbollah-news-updates": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/politics/2025/sep/17/privatisation-premium-billions-from-uk-energy-bills-paid-to-shareholders": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/australia-news/2025/nov/20/artificial-intelligence-data-centre-australia-solar-farm-possibly-unparalleled": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/stage/2026/feb/20/the-boy-who-harnessed-the-wind-review-malawi-swan-theatre-stratford-upon-avon-william-kamkwamba": {
+    "event_type": "drought",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2025/dec/22/trump-wind-farms": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2026/mar/31/energy-bills-great-britain-forecast-summer": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/may/10/australia-renewable-energy-subsidies-solar-panels-ev-home-batteries": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2026/mar/27/tropical-cyclone-narelle-perth-tracking-map-wa-path-tracker-forecast-category-update-western-australia": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/sport/2026/jan/27/australian-open-tennis-extreme-heat-melbourne": {
+    "event_type": "heatwave",
+    "region": "other"
+  },
+  "https://www.theguardian.com/uk-news/2025/oct/25/raise-12bn-in-budget-by-extending-income-tax-thresholds-freeze-says-thinktank": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/uk-news/live/2025/dec/09/storm-bram-danger-to-life-warnings-south-west-england-wales-scotland-northern-ireland-latest-news-updates": {
+    "event_type": "storm",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2026/jan/07/amsterdam-airport-cancels-flights-amid-icy-conditions": {
+    "event_type": "storm",
+    "region": "Netherlands"
+  },
+  "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave": {
+    "event_type": "heatwave",
+    "region": "Europe"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/22/us-winter-storm-snow": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/football/2026/apr/11/lotte-wubben-moy-england-arsenal-tao-geoghegan-hart": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/jul/20/weather-tracker-flooding-landslides-asia-vietnam-southern-china-south-korea": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2026/jan/09/storm-goretti-germany-heavy-snowfall-strong-winds-france-northern-europe": {
+    "event_type": "storm",
+    "region": "Germany"
+  },
+  "https://www.theguardian.com/uk-news/2025/dec/31/new-year-revellers-told-wrap-up-warm-snow-uk-weather": {
+    "event_type": "cold",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/world/2026/jul/23/israel-security-minister-itamar-ben-gvir-jewish-extremists-storm-al-aqsa-mosque-compound-jerusalem": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/world/2025/nov/17/manila-philippines-corruption-protest-flood-funds": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2025/dec/27/wa-bushfire-downgraded-while-queensland-and-nt-brace-for-monsoonal-rain-and-flooding": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2025/aug/12/was-longest-and-most-intense-marine-heatwave-killed-coral-across-1500km-stretch": {
+    "event_type": "heatwave",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2025/dec/08/weather-tracker-atmospheric-rivers-heavy-rain-snow-to-pacific-north-west-us-canada": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2026/jan/27/morning-mail-tuesday-ntwnfb": {
+    "event_type": "heatwave",
+    "region": "other"
+  },
+  "https://www.theguardian.com/weather/2026/apr/21/wellington-floods-new-zealand-man-missing-record-rain": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/media/2026/mar/13/bbc-world-service-funding-freeze-risks-opening-door-to-hostile-states-mps-say": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/australia-news/2026/mar/25/ex-tropical-cyclone-narelle-katherine-evacuees-aged-care-homes-ntwnfb": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/ng-interactive/2026/feb/19/extreme-heat-lab-enduring-the-climate-of-the-future": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/12/gofundme-texas-flooding-impersonation": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/lifeandstyle/2025/aug/30/what-links-carol-ferris-and-hal-jordan-and-ygritte-and-jon-snow-the-saturday-quiz": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi": {
+    "event_type": "heatwave",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/uk-news/2025/dec/09/storm-bram-uk-weather-strong-winds-heavy-rain-hits-britain": {
+    "event_type": "storm",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/uk-news/2026/jan/12/thousands-of-homes-cornwall-still-without-power-water-storm-goretti": {
+    "event_type": "storm",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/money/2025/nov/27/freeze-uk-student-loan-repayment-threshold-nus-warning": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/politics/2025/nov/28/uk-home-office-rejects-visa-young-girl-destitute-jamaica-hurricane-melissa": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/23/trump-winter-storm-climate-crisis": {
+    "event_type": "storm",
+    "region": "other"
+  },
+  "https://www.theguardian.com/film/2026/mar/13/peaky-blinders-the-immortal-man-film-cillian-murphy-barry-keoghan-steven-knight": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/australia-news/2026/mar/06/far-north-queensland-severe-weather-tropical-low-flash-flood-warnings": {
+    "event_type": "flood",
+    "region": "other"
+  },
+  "https://www.theguardian.com/uk-news/2026/jan/24/storm-ingrid-washes-away-part-of-teignmouths-historic-pier": {
+    "event_type": "storm",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/us-news/2026/jan/26/trump-administration-childcare-funding-freeze": {
+    "event_type": "none",
+    "region": "other"
+  },
+  "https://www.theguardian.com/australia-news/2025/aug/31/winter-delivers-final-blast-of-cold-weather-bringing-snow-and-strong-winds-to-australias-south-east": {
+    "event_type": "cold",
+    "region": "other"
+  },
+  "https://www.theguardian.com/environment/2025/nov/17/country-diary-walking-the-storm-path-through-an-ever-changing-pinewood": {
+    "event_type": "storm",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows": {
+    "event_type": "none",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/environment/2025/sep/08/floods-could-hit-england-while-country-is-still-in-drought-forecasters-say": {
+    "event_type": "flood",
+    "region": "UK"
+  },
+  "https://www.theguardian.com/commentisfree/2026/feb/09/the-guardian-view-on-heavy-rain-englands-flood-defences-are-not-strong-enough": {
+    "event_type": "flood",
+    "region": "UK"
+  }
+}
