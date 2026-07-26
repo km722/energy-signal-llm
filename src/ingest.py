@@ -57,19 +57,22 @@ def fetch_window(params: dict) -> list:
         return articles  # Exit the loop if the request was successful
     return []  # Return an empty list if all attempts fail
 
-def fetch_range(query: str, start: datetime, end: datetime, page_size: int = 50) -> None:
+def fetch_range(query: str, start: datetime, end: datetime, page_size: int = 50,
+                out_dir: pathlib.Path = DIRECTORY_PATH) -> None:
     """
     Fetches articles from the Guardian API week by week.
+    out_dir lets a second pull (e.g. a weather-focused query) write to its own
+    folder so the weekly filenames do not collide with the main pull.
     """
-    if not DIRECTORY_PATH.exists():
-            DIRECTORY_PATH.mkdir(parents=True, exist_ok=True)
-    current = start 
+    if not out_dir.exists():
+            out_dir.mkdir(parents=True, exist_ok=True)
+    current = start
 
     while current < end:
         end_of_week = current + timedelta(days=7) 
         filename = f"articles_{current.strftime('%Y%m%d')}_{end_of_week.strftime('%Y%m%d')}.json"
         #Skip to the next week if file already exists
-        if (DIRECTORY_PATH / filename).exists():
+        if (out_dir / filename).exists():
             print(f"File {filename} already exists. Skipping fetch.")
 
         else:
@@ -79,7 +82,7 @@ def fetch_range(query: str, start: datetime, end: datetime, page_size: int = 50)
 
             #Create the directory if it doesn't exist
             # Save the articles to a JSON file
-            with open(DIRECTORY_PATH / filename, "w") as file:
+            with open(out_dir / filename, "w") as file:
                 json.dump(list_of_articles, file, indent=4)
             time.sleep(1)  # Sleep for 1 second to avoid hitting the API too quickly
 
