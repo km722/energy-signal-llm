@@ -7,3 +7,4 @@ sample*.json
 .env
 data/raw_weather/
 .vscode/
+data/raw_energy_uk/
