@@ -74,7 +74,7 @@ Example: "*Europe's heatwave drives electricity prices*" -> heatwave. Example: "
 - **RULE 2**: **When** the headline asserts that a real weather event is happening or is
   forecast, **label** that event, whatever else the article is about. **When** the weather
   word is a name, a metaphor, or a policy term, **label** `none`. 
-  **When** a season named without a specific event (this winter, summer bills) is not an event -> `none`." 
+  **When** a season named without a specific event (this winter, summer bills) is not an event -> `none`.
 
 Example: "Not cool: the air conditioning scams offering fake deals in the heatwave" -> `heatwave`
 (the story is about fraud, but a real UK heatwave is happening)
@@ -90,6 +90,23 @@ Example: "Not cool: the air conditioning scams offering fake deals in the heatwa
 (happening now)
 Example: "UK rejects visa for girl left destitute in Jamaica by Hurricane Melissa" -> `none`
 (the hurricane is over; the story is about a visa decision)
+
+The same applies to risk that has not happened: **when** the headline discusses weather risk,
+planning, or defences with no event occurring or forecast, **label** `none`.
+
+Example: "One in nine new homes in England built in areas of flood risk, study shows" -> `none`
+(flood risk discussed; no flood is happening)
+Example: "The Guardian view on heavy rain: England's flood defences are not strong enough" -> `none`
+(about defences, not a current flood)
+Example: "Floods could hit England while country is still in drought, forecasters say" -> `drought`
+(drought is current; the floods are only possible)
+
+- **RULE 4**: **When** a headline reports two weather events, **label** the one more likely to move
+electricity demand or supply (heat and cold move demand hardest; storms and floods hit supply and
+the grid). Not the first mentioned.
+
+Example: "Two dead at Melbourne beach as wild wind batters state, while parts of Sydney hit by
+record-breaking heat" -> `heatwave` (heat drives aircon demand; the wind is local damage)
 
 Reply with only the raw JSON object. No markdown fences
 """

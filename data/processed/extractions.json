@@ -9,7 +9,7 @@
   },
   "https://www.theguardian.com/thefilter-us/2026/jan/27/extreme-cold-warm-winter-clothing": {
     "event_type": "none",
-    "region": "other"
+    "region": "UK"
   },
   "https://www.theguardian.com/money/2025/aug/27/higher-energy-bills-price-cap-rises": {
     "event_type": "none",
@@ -64,7 +64,7 @@
     "region": "other"
   },
   "https://www.theguardian.com/environment/2025/oct/22/sydney-weather-nsw-heat-bom-forecast-wind-warnings-australia": {
-    "event_type": "storm",
+    "event_type": "heatwave",
     "region": "other"
   },
   "https://www.theguardian.com/business/nils-pratley-on-finance/2026/feb/11/wake-up-labour-mps-price-of-electricity-is-crisis-for-industry-and-growth": {
@@ -333,7 +333,7 @@
   },
   "https://www.theguardian.com/lifeandstyle/2026/jul/12/readers-reply-why-put-solar-panels-on-green-space-when-we-could-put-them-over-car-parks": {
     "event_type": "none",
-    "region": "other"
+    "region": "UK"
   },
   "https://www.theguardian.com/world/2026/mar/20/us-considering-occupying-iran-kharg-island-hormuz-strait-trump": {
     "event_type": "none",
@@ -544,7 +544,7 @@
     "region": "other"
   },
   "https://www.theguardian.com/environment/2025/nov/17/country-diary-walking-the-storm-path-through-an-ever-changing-pinewood": {
-    "event_type": "storm",
+    "event_type": "none",
     "region": "UK"
   },
   "https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows": {
@@ -552,11 +552,11 @@
     "region": "UK"
   },
   "https://www.theguardian.com/environment/2025/sep/08/floods-could-hit-england-while-country-is-still-in-drought-forecasters-say": {
-    "event_type": "flood",
+    "event_type": "drought",
     "region": "UK"
   },
   "https://www.theguardian.com/commentisfree/2026/feb/09/the-guardian-view-on-heavy-rain-englands-flood-defences-are-not-strong-enough": {
-    "event_type": "flood",
+    "event_type": "none",
     "region": "UK"
   }
 }
